@@ -13,9 +13,9 @@ app.post("/bfhl", (req, res) => {
   const array = req.body.data;
   const returnObj = {
     is_success: true,
-    user_id: "avijit_rana_13122002",
-    email: "avijit@gmail.com",
-    roll_number: 2011981126,
+    user_id: "Anshul_1198",
+    email: "m02.anshul@gmail.com",
+    roll_number: 2011981198,
     odd_numbers: [],
     even_numbers:[],
     alphabets: [],
